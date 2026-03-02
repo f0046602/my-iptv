@@ -1,0 +1,9 @@
+# GROUP || REGEX
+Узбекистан || \b(uz|uzb|o'z|oz|уз)\b
+Спорт || \b(match|sport|setanta|ufc|nba|f1|boxing)\b
+Кино || \b(cinema|movie|film|кин|hbo|netflix|amedia|tv1000)\b
+Музыка || \b(music|mtv|hits|radio|fm)\b
+Детские || \b(kids|cartoon|nick|disney|baby)\b
+Информационные || \b(news|bbc|cnn|24|report)\b
+Познавательные || \b(doc|discovery|history|nat\s?geo|science)\b
+XXX || \b(xxx|adult|porn)\b
